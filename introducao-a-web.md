@@ -33,6 +33,3 @@ Um site é composto por vários componentes essenciais:
 Agora que você tem uma compreensão básica da web e seus componentes, está pronto para começar a criar seu próprio site. No próximo capítulo, exploraremos a linguagem HTML, que é a base de qualquer página web.
 
 [Próximo: HTML: A Linguagem da Web](html-a-linguagem-da-web.md)
-```
-
-Este conteúdo introduz os conceitos básicos da web, incluindo o funcionamento da World Wide Web, o modelo cliente-servidor e os principais componentes de um site. Os links no final do capítulo direcionam os alunos para o próximo capítulo sobre HTML. Certifique-se de criar o arquivo "html-a-linguagem-da-web.md" e continuar a desenvolver o conteúdo para os capítulos subsequentes do curso.
