@@ -31,6 +31,3 @@ Após configurar o servidor e o domínio, é importante testar seu site em difer
 Agora que seu site está publicado, ele está disponível para o mundo. Compartilhe seu site com amigos, familiares ou qualquer pessoa que você deseje alcançar. Continue aprimorando e atualizando seu site à medida que adquire mais conhecimento e experiência.
 
 [Próximo: Conclusão](conclusao.md)
-```
-
-Este capítulo fornece informações sobre como escolher um provedor de hospedagem, transferir arquivos para o servidor, configurar um domínio personalizado e testar seu site antes de torná-lo público. Os links no final do capítulo direcionam os alunos para o capítulo de conclusão do curso. Certifique-se de criar o arquivo "conclusao.md" e continuar a desenvolver o conteúdo para concluir o curso.
