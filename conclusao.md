@@ -27,6 +27,3 @@ Se você tiver dúvidas ou precisar de suporte, não hesite em entrar em contato
 Aproveite a sua jornada na criação de sites e boa sorte em seus empreendimentos!
 
 Fim do Curso.
-```
-
-Este capítulo de conclusão fornece orientações sobre os próximos passos que os alunos podem seguir após concluírem o curso e agradece aos participantes. O curso agora está concluído e você pode adicioná-lo ao seu repositório no GitHub para que outras pessoas possam acessar e aprender. Se você tiver alguma outra pergunta ou necessitar de mais ajuda, por favor, avise-me.
