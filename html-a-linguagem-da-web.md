@@ -49,6 +49,3 @@ Neste exemplo, a tag `<a>` é usada para criar um link para o site "https://www.
 Agora que você tem uma compreensão inicial de HTML, está pronto para começar a criar o conteúdo de suas páginas web. No próximo capítulo, exploraremos como estilizar seu site com CSS.
 
 [Próximo: CSS: Estilizando seu Site](css-estilizando-seu-site.md)
-```
-
-Este capítulo introduz os conceitos básicos de HTML, incluindo a estrutura de um documento HTML, tags HTML essenciais e como criar links. Os links no final do capítulo direcionam os alunos para o próximo capítulo sobre CSS. Certifique-se de criar o arquivo "css-estilizando-seu-site.md" e continuar a desenvolver o conteúdo para os capítulos subsequentes do curso.
