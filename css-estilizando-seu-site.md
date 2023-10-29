@@ -56,6 +56,3 @@ Você também pode usar CSS para controlar o posicionamento de elementos na pág
 Agora que você entende o básico do CSS, você está pronto para começar a estilizar seu site. No próximo capítulo, exploraremos como publicar seu site na web.
 
 [Próximo: Publicando seu Site](publicando-seu-site.md)
-```
-
-Este capítulo apresenta os conceitos fundamentais do CSS, incluindo seletores CSS, propriedades de estilo e posicionamento de elementos. Os links no final do capítulo direcionam os alunos para o próximo capítulo sobre publicação de sites. Certifique-se de criar o arquivo "publicando-seu-site.md" e continuar a desenvolver o conteúdo para os capítulos subsequentes do curso.
